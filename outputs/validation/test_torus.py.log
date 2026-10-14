@@ -1,0 +1,2 @@
+PASS: torus degenerate projection, idempotence, B vs autograd, trajectories and all saved 20k-training samples.
+PASS: analytic angular CDF, KS vs SciPy, all-seed angular tables and paired differences.

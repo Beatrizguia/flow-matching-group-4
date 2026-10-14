@@ -1,0 +1,57 @@
+{
+  "n_samples": 2000,
+  "n_steps": 100,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "training_samples": 20000,
+  "soft_strength": 0.3,
+  "soft_eps": 1e-08,
+  "R": 3.0,
+  "r": 1.0,
+  "feasible_tolerance": 0.001,
+  "sw_directions": 128,
+  "sw_direction_seed": 2026,
+  "checkpoint": "outputs/torus_abcd/run_20260928_190723_530525/model_documented.pt",
+  "reference_reference_sw1": [
+    0.09786142559919649,
+    0.05593946609762611,
+    0.05983088864788903,
+    0.09090725458806133,
+    0.058616677392963994,
+    0.04629935609437347,
+    0.05513998377074357,
+    0.048586405275713104,
+    0.056774318306613336,
+    0.09225187632842327
+  ],
+  "path_base": "project root",
+  "training_config": {
+    "seed": 42,
+    "training_samples": 20000,
+    "iterations": 5000,
+    "batch_size": 512,
+    "learning_rate": 0.001,
+    "gradient_clip": 1.0,
+    "optimizer": "Adam",
+    "architecture": "4 -> 256 x 4 (SiLU) -> 3",
+    "R": 3.0,
+    "r": 1.0
+  },
+  "original_checkpoint": "outputs/torus_abcd/trained_model_20260928_190723_414236.pt",
+  "angular_metric": "two-sided KS against analytic phi CDF, fixed origin 0, no p-values",
+  "paired_comparisons": [
+    "B-A",
+    "C-A",
+    "D-A"
+  ]
+}

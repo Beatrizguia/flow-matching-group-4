@@ -1,0 +1,64 @@
+Finished validation ablation: nonnegative
+Finished validation ablation: ramp
+Finished validation ablation: both
+Step 250/5000: train=1.0347, validation=1.2212, elapsed=0.8s
+Step 500/5000: train=0.9713, validation=1.1322, elapsed=1.6s
+Step 750/5000: train=0.9927, validation=1.0888, elapsed=2.3s
+Step 1000/5000: train=0.9634, validation=1.0531, elapsed=3.0s
+Step 1250/5000: train=0.9379, validation=1.0351, elapsed=3.8s
+Step 1500/5000: train=0.9394, validation=1.0217, elapsed=4.6s
+Step 1750/5000: train=0.8328, validation=1.0031, elapsed=5.4s
+Step 2000/5000: train=1.0453, validation=0.9982, elapsed=6.2s
+Step 2250/5000: train=0.9017, validation=0.9901, elapsed=6.9s
+Step 2500/5000: train=0.8457, validation=0.9941, elapsed=7.7s
+Step 2750/5000: train=1.0332, validation=0.9787, elapsed=8.4s
+Step 3000/5000: train=0.8446, validation=0.9748, elapsed=9.2s
+Step 3250/5000: train=0.8775, validation=0.9737, elapsed=10.0s
+Step 3500/5000: train=0.9055, validation=0.9693, elapsed=10.7s
+Step 3750/5000: train=0.9513, validation=0.9663, elapsed=11.5s
+Step 4000/5000: train=0.8105, validation=0.9660, elapsed=12.3s
+Step 4250/5000: train=0.8267, validation=0.9567, elapsed=13.0s
+Step 4500/5000: train=0.7739, validation=0.9586, elapsed=13.8s
+Step 4750/5000: train=0.8175, validation=0.9559, elapsed=14.6s
+Step 5000/5000: train=0.9399, validation=0.9500, elapsed=15.4s
+Application seed 0: 1.1s
+Application seed 1: 1.1s
+Application seed 2: 1.0s
+Application seed 3: 1.2s
+Application seed 4: 1.3s
+Application seed 5: 1.0s
+Application seed 6: 1.0s
+Application seed 7: 1.1s
+Application seed 8: 1.0s
+Application seed 9: 1.1s
+Step 250/5000: train=1.1120, validation=1.2303, elapsed=0.8s
+Step 500/5000: train=1.0969, validation=1.1294, elapsed=1.6s
+Step 750/5000: train=0.9853, validation=1.0770, elapsed=2.4s
+Step 1000/5000: train=0.8023, validation=1.0565, elapsed=3.1s
+Step 1250/5000: train=0.8243, validation=1.0291, elapsed=3.9s
+Step 1500/5000: train=0.8157, validation=1.0178, elapsed=4.7s
+Step 1750/5000: train=0.8227, validation=1.0055, elapsed=5.4s
+Step 2000/5000: train=0.9458, validation=0.9990, elapsed=6.2s
+Step 2250/5000: train=0.9927, validation=0.9910, elapsed=6.9s
+Step 2500/5000: train=0.9270, validation=0.9791, elapsed=7.7s
+Step 2750/5000: train=0.8324, validation=0.9768, elapsed=8.7s
+Step 3000/5000: train=0.8989, validation=0.9748, elapsed=9.4s
+Step 3250/5000: train=0.8176, validation=0.9766, elapsed=10.2s
+Step 3500/5000: train=0.8395, validation=0.9667, elapsed=10.9s
+Step 3750/5000: train=0.8690, validation=0.9630, elapsed=11.7s
+Step 4000/5000: train=0.7932, validation=0.9643, elapsed=12.5s
+Step 4250/5000: train=0.8545, validation=0.9604, elapsed=13.3s
+Step 4500/5000: train=0.9236, validation=0.9573, elapsed=14.0s
+Step 4750/5000: train=0.8733, validation=0.9547, elapsed=14.8s
+Step 5000/5000: train=0.8250, validation=0.9565, elapsed=15.5s
+Application seed 0: 1.1s
+Application seed 1: 1.0s
+Application seed 2: 0.9s
+Application seed 3: 1.1s
+Application seed 4: 1.1s
+Application seed 5: 0.9s
+Application seed 6: 1.0s
+Application seed 7: 1.2s
+Application seed 8: 1.0s
+Application seed 9: 1.0s
+COMPLETE /Users/mariadomarvieira/Desktop/flow_matching_project/outputs/supplementary/run_20260930_212353_028360

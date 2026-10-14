@@ -1,0 +1,49 @@
+{
+  "training_seeds": [
+    42,
+    43,
+    44
+  ],
+  "sampling_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "training_iterations": 5000,
+  "n_samples": 2000,
+  "n_steps": 100,
+  "ablation_split": "validation",
+  "robustness_split": "test",
+  "ablation_model_training_seed": 42,
+  "constraints": [
+    "nonnegative",
+    "ramp",
+    "both"
+  ],
+  "soft_strength": 0.3,
+  "soft_divisor": 9,
+  "sw_seed": 2026,
+  "sw_directions": 128,
+  "selection": "No tuning; descriptive follow-up after historical test inspection",
+  "base_run": "outputs/load_profiles/run_20260928_190918_141268",
+  "data_sha256": "bf490309adedd05549f90c97f6b44802f812eedf0f21bef4d0f5bafd3229c7b9",
+  "versions": {
+    "torch": "2.14.1",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "python": "3.13.7",
+  "code_sha256": {
+    "load_profile_project.py": "1a23df718c481c317b6802eb068d0999379fbfb2cd2d4432090dd0d10961521d",
+    "supplementary_experiments.py": "cdc98d154eeeb1d4c53b6dc291f64e5c7d382ff9625b0caeb804b179a2668c24"
+  }
+}

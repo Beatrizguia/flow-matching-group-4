@@ -1,0 +1,37 @@
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/audit-env/lib/python3.13/site-packages/IPython/paths.py:60: UserWarning: IPython dir '/Users/mariadomarvieira/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{}' is not a writable location,"
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 3
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 4
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 6
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 7
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 9
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 10
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 12
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 14
+FINISHED /Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/audit-env/lib/python3.13/site-packages/IPython/paths.py:60: UserWarning: IPython dir '/Users/mariadomarvieira/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{}' is not a writable location,"
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+/Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb: finished cell 3
+/Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb: finished cell 4
+/Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb: finished cell 6
+/Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb: finished cell 8
+/Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb: finished cell 10
+/Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb: finished cell 12
+/Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb: finished cell 13
+/Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb: finished cell 15
+/Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb: finished cell 17
+FINISHED /Users/mariadomarvieira/Desktop/flow_matching_project/flow_matching.ipynb
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/audit-env/lib/python3.13/site-packages/IPython/paths.py:60: UserWarning: IPython dir '/Users/mariadomarvieira/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{}' is not a writable location,"
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 3
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 4
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 6
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 7
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 9
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 10
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 12
+/Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb: finished cell 14
+FINISHED /Users/mariadomarvieira/Desktop/flow_matching_project/toymodel.ipynb

@@ -1,0 +1,12 @@
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/audit-env/lib/python3.13/site-packages/IPython/paths.py:60: UserWarning: IPython dir '/Users/mariadomarvieira/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{}' is not a writable location,"
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/final_training_check/flow_matching.ipynb: finished cell 2
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/final_training_check/flow_matching.ipynb: finished cell 4
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/final_training_check/flow_matching.ipynb: finished cell 6
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/final_training_check/flow_matching.ipynb: finished cell 8
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/final_training_check/flow_matching.ipynb: finished cell 10
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/final_training_check/flow_matching.ipynb: finished cell 11
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/final_training_check/flow_matching.ipynb: finished cell 13
+/Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/final_training_check/flow_matching.ipynb: finished cell 15
+FINISHED /Users/mariadomarvieira/Documents/Codex/2026-09-30/users-mariadomarvieira-desktop-flow-matching-project/work/final_training_check/flow_matching.ipynb

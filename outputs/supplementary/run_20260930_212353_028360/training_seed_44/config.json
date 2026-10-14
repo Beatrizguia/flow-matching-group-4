@@ -1,0 +1,5 @@
+{
+  "training_seed": 44,
+  "selected_step": 4750,
+  "protocol": "../protocol.json"
+}

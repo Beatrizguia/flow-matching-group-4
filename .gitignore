@@ -1,0 +1,7 @@
+# Local environments, editor state and regenerated Python caches.
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.DS_Store

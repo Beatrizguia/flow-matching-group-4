@@ -1,0 +1,8 @@
+PASS: Dykstra vs independent constrained optimizer, idempotence, feasibility, soft descent, A trajectory and D=A projection.
+PASS: 474500 daily samples, disjoint households, train-only ramp, identity fidelity metrics.
+{'train': {'households': 910, 'retained_days': 332150, 'removed_days': 0}, 'validation': {'households': 195, 'retained_days': 71175, 'removed_days': 0}, 'test': {'households': 195, 'retained_days': 71175, 'removed_days': 0}} scale 0.8789365887641907 ramp 3.392000198364258
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Matplotlib is building the font cache; this may take a moment.
